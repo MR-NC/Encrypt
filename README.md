@@ -13,6 +13,6 @@ $ python2 enc.py
 ```
 
 ## Fitur
-<a href="https://ibb.co/Gxr8WxL"><img src="https://i.ibb.co/8mbyg8g/20191120-184715-picsay.jpg" alt="20191120-184715-picsay" border="0"></a> border="0"></a>
+<a href="https://ibb.co/Gxr8WxL"><img src="https://i.ibb.co/Gxr8WxL/20191120-184715-picsay.jpg" alt="20191120-184715-picsay" border="0"></a> border="0"></a>
 
 ðŸŒ€by Ariya SaputraðŸŒ€
