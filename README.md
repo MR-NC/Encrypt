@@ -11,5 +11,5 @@ $ git clone https://github.com/Ariya-Coder/Encrypt
 $ cd Encrypt
 $ python2 enc.py
 ```
-<img src="https://github.com/Ariya-Coder/Image/blob/master/Screenshot_20191208_080328.jpg" width="80%" alt="screenshot">
+<img src="https://github.com/Ariya-Coder/Image/blob/master/Screenshot_20191208_080328.jpg" width="90%" alt="screenshot">
 <br>
